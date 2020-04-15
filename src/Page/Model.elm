@@ -1,6 +1,6 @@
 module Page.Model exposing (Model, Msg, init, toSession, toTheme, view)
 
-import Element exposing (Element, fill, fillPortion, height, px, spacing, width)
+import Element exposing (Element, fill, fillPortion, height)
 import Html exposing (Html)
 import Models
 import Page
